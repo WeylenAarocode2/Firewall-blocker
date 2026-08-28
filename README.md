@@ -1,3 +1,5 @@
+IMPORTANT, I take NO credit for the software Mihomo included in this project, there doesn't seem to be an official link for mihomos download on github so I decided to include it in this project so that you don't have to download it on a sketchy site and possibly get a virus. Again I do not take any credit for Mihomo, i only take credit for the idea and config.
+
 Once you have unzipped the file open "config.yaml" you need to follow the instructions to replace the placeholders with the correct info. This code works by detecting if your on the specified domain and transferring over to your mobile data automatically. To start the firewall blocker launch the application called "Mihomo" it should be started automatically. If you want to bypass more then one domain just copy the line of code and change it to a different domain.
 
 Notes:
